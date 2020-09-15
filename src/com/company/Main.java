@@ -12,7 +12,6 @@ public class Main {
         while (true) {
             System.out.println("Введите название задачи");
             String task = scanner.nextLine();
-            //пишем код с пунктов 7, 9, 10, 11, 12, 13, 14 здесь внутри цикла
             System.out.println("Сколько дней потребуется на выполнение?");
             int days = scanner.nextInt();
             System.out.println("Сколько часов потребуется на выполнение?");
